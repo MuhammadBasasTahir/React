@@ -1,0 +1,11 @@
+--2025-02-02 23:45:55--  https://www.bing.com/images/search?view=detailV2
+Resolving www.bing.com (www.bing.com)... 23.32.29.97, 23.32.29.107, 23.32.29.105, ...
+Connecting to www.bing.com (www.bing.com)|23.32.29.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125610 (123K) [text/html]
+Saving to: ‘search?view=detailV2’
+
+search?view=detailV2     0%[                             ]       0  --.-KB/s               search?view=detailV2    71%[===================>         ]  88.00K   406KB/s               search?view=detailV2   100%[============================>] 122.67K   479KB/s    in 0.3s    
+
+2025-02-02 23:45:56 (479 KB/s) - ‘search?view=detailV2’ saved [125610/125610]
+
