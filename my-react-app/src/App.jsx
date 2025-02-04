@@ -1,19 +1,6 @@
-function Profile() {
+import Gallery from './Gallery';
+export default function App() {
   return (
-    <img
-      src="https://i.imgur.com/QIrZWGIs.jpg"
-      alt="Alan L. Hart"
-    />
-  );
-}
-
-export default function Gallery() {
-  return (
-    <section>
-      <h1>Amazing scientists</h1>
-      <profile />
-      <profile />
-      <profile />
-    </section>
-  );
+    <Gallery />
+  )
 }
